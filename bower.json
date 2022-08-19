@@ -1,0 +1,20 @@
+{
+  "name": "FileEncryptor",
+  "authors": [
+    "Todo56 <gottfried@todo56.dev>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
